@@ -10,7 +10,8 @@ An OpenAI API Key. You can create an API Key on https://platform.openai.com/api-
 
 ## Example usage
 
-```name: Translate Homey App
+```YAML
+name: Translate Homey App
 
 on:
   workflow_dispatch:
